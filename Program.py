@@ -57,7 +57,7 @@ class LibraryManager:
             books = json.load(file)
             print("Available Books:\n")
             for each in books:
-                print(f"{each['Title']} By {each['Author']}")
+                print(f"{each['Title']} By {each['Author']} Published in {each['Publish Year']}")
 
     @staticmethod
     def search(title):
