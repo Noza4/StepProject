@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 1,
+        "Title": "Test1",
+        "Author": "Test_author1",
+        "Publish Year": 2024,
+        "Stock": 10
+    },
+    {
+        "ID": 2,
+        "Title": "Test2",
+        "Author": "Test_author2",
+        "Publish Year": 2023,
+        "Stock": 6
+    },
+    {
+        "ID": 3,
+        "Title": "Test3",
+        "Author": "Test_author3",
+        "Publish Year": 2022,
+        "Stock": 0
+    },
+    {
+        "ID": 4,
+        "Title": "Test4",
+        "Author": "Test_author4",
+        "Publish Year": 2021,
+        "Stock": 0
+    },
+    {
+        "ID": 5,
+        "Title": "Test5",
+        "Author": "Test_author5",
+        "Publish Year": 2020,
+        "Stock": 1
+    }
+]

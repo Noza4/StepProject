@@ -1,0 +1,16 @@
+[
+    {
+        "Customer_ID": "12345678911",
+        "Book_ID": 1,
+        "Title": "Test1",
+        "Taking Date": "2024-11-30",
+        "Status": "Returned"
+    },
+    {
+        "Customer_ID": "12345678911",
+        "Book_ID": 4,
+        "Title": "Test4",
+        "Taking Date": "2024-11-30",
+        "Status": "Not Returned"
+    }
+]
